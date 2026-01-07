@@ -1,5 +1,5 @@
 ## Team Details
-Name  
+
 
 
 # Bank Fraud Detection System 
