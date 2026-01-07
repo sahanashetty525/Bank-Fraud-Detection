@@ -1,3 +1,6 @@
+![C++](https://img.shields.io/badge/Language-C++-blue)
+![DAA](https://img.shields.io/badge/Subject-DAA-green)
+
 # Project Overview and Details
 ![Bank Fraud Detection Workflow](images/bank_fraud_workflow.png)
 ## Overview
