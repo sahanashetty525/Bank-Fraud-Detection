@@ -1,24 +1,15 @@
 # Algorithm Analysis
 
-## Algorithms Used
 
-### Rabin–Karp Algorithm
-Used to detect repeated or suspicious transaction patterns using hashing.
+| Algorithm | Used | Purpose | Time | Space |
+|-----------|------|---------|------|-------|
+| Merge Sort | Yes | Sort transactions | O(n log n) | O(n) |
+| Rabin–Karp | Yes | Detect patterns | O(n + m) | O(1) |
+| Dijkstra | Yes | Trace money paths | O(E log V) | O(V + E) |
+| Bubble Sort | No | — | O(n²) | O(1) |
+| Quick Sort | No | — | O(n log n) | O(log n) |
+| Bellman–Ford | No | — | O(VE) | O(V) |
 
-Time Complexity: O(n + m)  
-Space Complexity: O(1)
-
-### Merge Sort
-Used to sort transactions by amount or time to detect unusual spikes.
-
-Time Complexity: O(n log n)  
-Space Complexity: O(n)
-
-### Dijkstra’s Algorithm
-Used to trace the shortest and unusual money transfer paths between accounts.
-
-Time Complexity: O(E log V)  
-Space Complexity: O(V)
 
 ## Reason for Selection
 These algorithms are efficient, scalable, and suitable for large financial datasets.
