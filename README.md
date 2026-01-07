@@ -1,10 +1,7 @@
+[🏠 Home](README.md) | 🔍 [Project Overview](Project_Overview.md) | ⚙️ [Algorithm Analysis](Algorithm_Analysis.md) | 🌍 [SDG Addressed](SDG_Addressed.md)
 
 
 # 🏦 Bank Fraud Detection System
-
-![C++](https://img.shields.io/badge/Language-C++-blue)
-![DAA](https://img.shields.io/badge/Subject-DAA-green)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black)
 
 ##  Project Overview
 
