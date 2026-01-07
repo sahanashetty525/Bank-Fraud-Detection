@@ -1,5 +1,5 @@
 # Project Overview and Details
-
+![Bank Fraud Detection Workflow](images/bank_fraud_workflow.png)
 ## Overview
 Online banking transactions are increasing rapidly, which also increases the risk of fraud. Manual fraud detection is difficult due to large data volume.
 
