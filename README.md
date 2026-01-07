@@ -4,7 +4,7 @@
 ![DAA](https://img.shields.io/badge/Subject-DAA-green)
 ![GitHub](https://img.shields.io/badge/Platform-GitHub-black)
 
-## 📌 Project Overview
+##  Project Overview
 
 A bank fraud detection system that uses efficient algorithms to detect suspicious transactions and unusual money movement in real time.
 
@@ -12,7 +12,7 @@ This project is a **mini project for Design and Analysis of Algorithms (DAA)** a
 
 ---
 
-## 📁 Project Sections
+##  Project Sections
 
 | Section | Description |
 |---------|-------------|
@@ -23,24 +23,24 @@ This project is a **mini project for Design and Analysis of Algorithms (DAA)** a
 
 ---
 
-## 📊 Features
+##  Features
 
-- 📌 Detects suspicious transaction patterns  
-- 📊 Identifies unusual transaction spikes  
-- 🛣️ Traces money movement paths  
-- 📈 Uses efficient DAA algorithms  
-- 📁 Uses the PaySim dataset  
+-  Detects suspicious transaction patterns  
+-  Identifies unusual transaction spikes  
+-  Traces money movement paths  
+-  Uses efficient DAA algorithms  
+-  Uses the PaySim dataset  
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 We use the **PaySim synthetic financial dataset** which simulates realistic banking transactions.  
 It contains transaction type, step, sender, receiver, amount, and fraud label.
 
 ---
 
-## 📌 Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
