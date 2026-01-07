@@ -1,4 +1,4 @@
-[🏠 Home](README.md) | 🔍 Overview | ⚙️ Algorithms | 🌍 SDG
+
 
 # 🏦 Bank Fraud Detection System
 
