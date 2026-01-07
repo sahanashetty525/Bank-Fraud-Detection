@@ -20,3 +20,7 @@ PaySim – Synthetic Financial Transaction Dataset
 - Customers
 - Fraud Detection Teams
 - Regulatory Authorities
+
+# Individual Reflection
+
+This project helped us to understand how algorithms can be applied to real-world banking problems. we have  learned how to analyze algorithm efficiency, handle large datasets, and design a practical fraud detection system. The project improved our problem-solving and implementation skills.
