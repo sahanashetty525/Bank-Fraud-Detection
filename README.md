@@ -1,3 +1,5 @@
+[🏠 Home](README.md) | 🔍 Overview | ⚙️ Algorithms | 🌍 SDG
+
 # 🏦 Bank Fraud Detection System
 
 ![C++](https://img.shields.io/badge/Language-C++-blue)
